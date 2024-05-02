@@ -1,5 +1,3 @@
-
-// Importa o hook useState do React para gerenciar o estado e o hook useNavigate do react-router-dom para navegação entre rotas
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import api from '../api'
