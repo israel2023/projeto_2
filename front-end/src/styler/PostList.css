@@ -1,0 +1,34 @@
+/* Estilos para o título */
+h1 {
+    font-size: 24px;
+    color: #f8f8f8;
+    margin-bottom: 20px;
+}
+
+/* Estilos para a lista de alunos */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+/* Estilos para cada item da lista */
+li {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+/* Estilos para o nome do aluno */
+h2 {
+    font-size: 18px;
+    color: #007bff;
+    margin-bottom: 5px;
+}
+
+/* Estilos para as informações do aluno */
+p {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 5px;
+}
